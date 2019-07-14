@@ -1,9 +1,6 @@
 # Huesja
 Websocket online orchestra.
 
-UOttaHack 2018
-www.orchestraonline.org
-
 Here are some screenshots of when it was hosted:
 
 The user starts at the menu screen, where they can choose between single and multiplayer.
