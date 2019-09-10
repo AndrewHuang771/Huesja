@@ -1,5 +1,5 @@
 # Huesja
-Websocket online orchestra.
+Websocket online orchestra. Made at UOttaHack
 
 Here are some screenshots of when it was hosted:
 
